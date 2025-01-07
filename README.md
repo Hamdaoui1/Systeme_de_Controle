@@ -53,10 +53,6 @@ Ce projet est un **système de contrôle multimédia** en temps réel utilisant 
    - **Vidéo suivante** : Mouvement latéral de la main vers la droite.
    - **Vidéo précédente** : Mouvement latéral de la main vers la gauche.
 
-## Exemple d'affichage
-
-![Exemple d'affichage](https://github.com/Hamdaoui1/Systeme_de_Controle/blob/main/images/example.png)
-
 ## Structure du projet
 
 ```
